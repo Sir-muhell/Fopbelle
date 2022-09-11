@@ -1558,6 +1558,9 @@ h5,
   size: 2;
   margin: auto;
   display: block;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
 }
 
 .product-image:hover {
