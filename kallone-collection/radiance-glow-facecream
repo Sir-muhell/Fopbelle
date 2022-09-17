@@ -92,7 +92,7 @@
                 <div class="row">
                     <div class="col-md-7 blog-content">
                         <div>
-                            <h3>Blessings / Benefits</h3>
+                            <h3>Blessings</h3>
                             <p><i class="icon-leaf text-primary"></i> Improves radiance and evens out skin tone
                             </p>
                             <p><i class="icon-leaf "></i> Hydrates and smoothen
@@ -133,14 +133,14 @@
                                     <div class="carousel-item active">
                                         <img class="d-block w-100" src="../images/kallone/rgfc50g.jpg"
                                             alt="First slide">
-                                        <h3 class="mt-3">50G <span style="margin-left: 20px; float: right;"><i
+                                        <h3 class="mt-3" style="font-size: 30px; font-weight: 800;">50G <span style="margin-left: 20px; float: right;"><i
                                                     class=""></i>#3,000</span>
                                         </h3>
                                     </div>
                                     <div class="carousel-item">
                                         <img class="d-block w-100" src="../images/kallone/rgfc250g.jpg"
                                             alt="Second slide">
-                                        <h3 class="mt-3">250G <span style="margin-left: 20px; float: right;"><i
+                                        <h3 class="mt-3" style="font-size: 30px; font-weight: 800;">250G <span style="margin-left: 20px; float: right;"><i
                                                     class=""></i>#10,500</span>
                                         </h3>
                                     </div>

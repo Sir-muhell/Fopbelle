@@ -92,7 +92,7 @@
                 <div class="row">
                     <div class="col-md-7 blog-content">
                         <div>
-                            <h3>Blessings / Benefits</h3>
+                            <h3>Blessings</h3>
                             <p><i class="icon-leaf text-primary"></i> Deep cleanse and unclogs the pores
                             </p>
                             <p><i class="icon-leaf "></i>Fights Acne causing bacteria</p>
@@ -128,7 +128,7 @@
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <img class="d-block w-100" src="../images/belle/fw100ml.jpg" alt="First slide">
-                                        <h3 class="mt-3">250ML <span style="margin-left: 20px; float: right;"><i
+                                        <h3 class="mt-3" style="font-size: 30px; font-weight: 800;">250ML <span style="margin-left: 20px; float: right;"><i
                                                     class=""></i>#3,000</span>
                                         </h3>
                                     </div>
