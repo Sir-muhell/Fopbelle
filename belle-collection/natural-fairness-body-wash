@@ -124,8 +124,7 @@
                     </div>
                     <div class="col-md-5 sidebar">
 
-                        <br>
-                        <p><a href="https://wa.me/+2348029485284" class="btn btn-primary col-lg-12">Buy Now</a></p>
+
                         <div class="sidebar-box">
                             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                                 <ol class="carousel-indicators">
@@ -161,7 +160,8 @@
                                 </a>
                             </div>
                         </div>
-
+                        <br>
+                        <p><a href="https://wa.me/+2348029485284" class="btn btn-primary col-lg-12">Buy Now</a></p>
 
                     </div>
                 </div>
