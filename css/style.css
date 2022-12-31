@@ -1048,6 +1048,7 @@ h5,
 .hero {
   position: relative;
   background-size: cover;
+  background-position: center center;
 }
 .hero,
 .hero > .container > .row {
@@ -1061,10 +1062,16 @@ h5,
 .hero .intro h1 {
   font-size: 50px;
   font-weight: 700;
+  color: rgba(0, 165, 59) !important;
+}
+.hero .intro h4 {
+  color: rgba(0, 165, 59) !important;
+  font-weight: 600;
 }
 @media (max-width: 991.98px) {
   .hero .intro h1 {
     font-size: 40px;
+    color: rgba(0, 165, 59) !important;
   }
 }
 .hero .intro strong {
@@ -1424,6 +1431,10 @@ h5,
   font-size: 18px;
 }
 .site-footer .quick-contact-info .icon-wrap span {
+  font-size: 30px;
+}
+
+.social-icon {
   font-size: 30px;
 }
 
